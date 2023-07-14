@@ -1,9 +1,9 @@
 import React from 'react';
 
-const Titulo = () => {
+const Titulo = ({tituloNuevo}) => {
     return (
         <section>
-           <h1>Hello Word</h1> 
+           <h1>{tituloNuevo}</h1> 
         </section>
     );
 };

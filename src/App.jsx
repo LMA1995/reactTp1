@@ -10,7 +10,7 @@ function App() {
   return (
     <>
      
-       <Titulo/>
+       <Titulo tituloNuevo='Nuevo titulo'/>
       
       
     </>
